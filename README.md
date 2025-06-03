@@ -81,8 +81,7 @@ Este proyecto busca:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/JUANJO2410/CHALLENGE2.git
-cd CHALLENGE2
+git clone https://github.com/ingridcristh/challenge2-data-science-LATAM.git
 
 # 2. Crear entorno virtual (opcional)
 python -m venv .venv && source .venv/bin/activate
@@ -95,3 +94,7 @@ jupyter lab TelecomX_LATAM.ipynb
 
 # 5. Ejecutar el dashboard
 streamlit run app_churn.py --server.port 8501
+
+# Créditos
+Proyecto desarrollado por Milan Yachapa (Data Science).
+linkidin : https://www.linkedin.com/in/milanyb/
